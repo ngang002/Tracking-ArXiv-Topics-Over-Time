@@ -1,0 +1,98 @@
+{
+  "Galaxies": [
+    "galaxy", "galaxies", "galactic", "ngc", "milky", "andromeda", "bulge", 
+    "spiral", "elliptical", "galactocentric", "halo", "virgo", 
+    "circumgalactic", "intergalactic", "intracluster", "cluster", 
+    "supercluster", "galactic nucleus", "ultraluminous", "dwarf galaxies", 
+    "satellites", "tidally", "bulges"
+  ],
+  "Stars and Stellar Evolution": [
+      "star", "stars", "stellar", "supergiant", "giants", 
+      "main sequence", "protostars", "superluminous", "binary", "neutron", 
+      "novae", "supernova", "white dwarf", "O star", "AGB", "metallicity", 
+      "starburst", "red giant", "metallicities", "luminous", "pulsations",
+      "mass loss", "winds", "nucleosynthesis", "remnant", "accretion", 
+      "rotation", "variability"
+    ],
+  "Black Holes": [
+    "black hole", "BH", "PBH", "supermassive", "primordial black holes", 
+    "event horizon", "accreting", "SMBH", "binary BH", "horizon", 
+    "Kerr", "Schwarzschild", "ergosphere"
+  ],
+  "Cosmology": [
+    "cosmology", "cosmological", "redshift", "hubble", "CMB", "reionization", 
+    "inflation", "expansion", "Hubble Tension", "Planck", "WMAP", "BAO", 
+    "cosmos", "ΛCDM", "dark ages"
+  ],
+  "Dark Matter and Dark Energy": {
+    "Dark Matter": [
+      "dark matter", "WIMPs", "cold dark matter", "halo", 
+      "self-interacting", "axions", "fuzzy", "annihilation", "decay"
+    ],
+    "Dark Energy": [
+      "dark energy", "Λ", "quintessence", "vacuum energy", 
+      "equation of state"
+    ]
+  },
+  "Intergalactic and Circumgalactic Medium": [
+    "intergalactic", "circumgalactic", "IGM", "CGM", "absorption", "emission", 
+    "ionization", "photoionization", "metallicity", "density", 
+    "temperature", "filament"
+  ],
+  "Exoplanets and Planetary Science": [
+    "exoplanet", "exoplanets", "planetary", "planets", "protoplanetary", 
+    "orbit", "eccentricity", "transits", "radial velocity", 
+    "atmospheres", "discs", "Kepler", "Gaia", "habitable", "habitability"
+  ],
+  "High-Energy Astrophysics": [
+    "gamma", "cosmic", "ray", "gammaray", "x-ray", "XMM", "Fermi", "Chandra", 
+    "high energy", "jets", "blazars", "AGN", "GRB", "SN", "SNIa", "SNII", "SN Ia", "SN II",
+    "TeV", "neutrino", "IceCube", "Cherenkov", "LIGO", "GW", "burst", 
+    "flare", "supernova"
+  ],
+  "Compact Objects": [
+    "neutron star", "pulsar", "pulsars", "magnetars", "binary neutron", 
+    "NS", "white dwarfs", "compact binaries", "millisecond", "merger"
+  ],
+  "Instrumentation and Observatories": [
+    "telescope", "telescopes", "observatories", "observatory", "observations", "detector", 
+    "detectors", "photometric", "spectroscopic", "spectrometer", "camera", 
+    "aperture", "Keck", "ALMA", "VLA", "LOFAR", "VLBI", "JWST", "HST", 
+    "Gaia", "SKA", "optics", "interferometry"
+  ],
+  "Spectroscopy and Photometry": [
+    "spectroscopy", "spectra", "spectral", "spectroscopics", "spectrograph", 
+    "spectrophotometric", "photometry", "flux", "wavelength", "bands", 
+    "light curves", "luminosity", "magnitudes", "redshift", "calibration"
+  ],
+  "Simulations and Modeling": [
+    "simulation", "simulations", "hydrodynamics", "hydrodynamical", 
+    "numerical", "models", "modeling", "analytical", "MCMC", "Bayesian", 
+    "likelihood", "synthetic", "Monte Carlo", "cosmological simulation"
+  ],
+  "Machine Learning and Statistics": [
+    "machine learning", "neural network", "CNN", "classification", 
+    "regression", "algorithm", "clustering", "dimensionality reduction", 
+    "Bayesian", "supervised", "unsupervised", "variational", "deep learning", 
+    "autoencoder"
+  ],
+  "Atomic and Molecular Astrophysics": [
+    "atomic", "molecular", "line", "absorption", "emission", "ion", 
+    "neutral", "ionized", "chemistry", "metal", "dust", "CO", "HI", "H I", 
+    "H II", "He", "Lyman-alpha", "spectral lines"
+  ],
+  "Gravitational Waves and Relativity": [
+    "gravitational wave", "GW", "LIGO", "Virgo", "relativity", 
+    "general relativity", "Schwarzschild", "Kerr", "inspiral", "merger", 
+    "TOV", "event", "strain"
+  ],
+  "Solar and Heliospheric Physics": [
+    "solar", "Sun", "sunspots", "photosphere", "corona", "solar wind", 
+    "heliosphere", "magnetosphere", "solar cycle", "space weather"
+  ],
+  "Time-Domain and Transients": [
+    "transient", "transients", 
+    "afterglow", "fast radio burst (FRB)", "repeating", 
+    "light curves", "variable stars", "timing"
+  ]
+}
